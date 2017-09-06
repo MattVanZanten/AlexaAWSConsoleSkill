@@ -1,0 +1,15 @@
+{
+  "name": "AlexaAWSConsoleSkill",
+  "description": "A server for controlling the AWS console",
+  "version": "0.0.1",
+  "dependencies": {
+    "node-ssdp": "2.5.1"
+  },
+  "repository": [
+    {
+      "type": "git",
+      "url": "git@github.com:MattVanZanten/AlexaAWSConsoleSkill.git"
+    }
+  ]
+}
+
